@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    color: red;
+}
+
+.img {
+    width: 10;
+}
+
+.img {
+    color: white;
+    background: url(/imagenes/DAHMER.png);
+    background-repeat: no-repeat
+
+}
+
+.lorem {
+    text-align: start;
+    padding: 500px 1000px 0 0;
+    background-repeat: no-repeat;
+}
+
+.subtitulo {
+ color: whitesmoke;
+}
+
+.boton {
+margin:20px;
+}
